@@ -41,7 +41,7 @@ This tutorial outlines the post-install configuration of the open-source helpdes
 <h3>Step 1: Open osTicket and Log In
 
 - Log in to osTicket using the credentials you made during the installation tutorial </h3>
-	- If you need help installing osTicket, please see my tutorial [here]()
+	- If you need help installing osTicket, please see my tutorial [here](https://github.com/ssidhu1994/osTicket---Prerequisites-and-Installation)
 
 <p align="center">
 <img src="https://i.imgur.com/gAXVBO2.png" height="80%" width="80%" alt="Azure Free Account"/>	
@@ -210,4 +210,5 @@ This tutorial outlines the post-install configuration of the open-source helpdes
 
 
 
-🎉Congratulations! You have configured osTicket succesfully!🎉 Click [here]() to move on to the final part of this tutorial! 
+🎉Congratulations! You have configured osTicket succesfully!🎉 
+Click [here](https://github.com/ssidhu1994/Ticket-Lifecycle-Examples) to move on to the final part of this tutorial! 
